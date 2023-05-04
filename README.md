@@ -16,6 +16,13 @@ https://github.com/Lai-Monkey/HTML-ALL/raw/main/B-html.zip
 ## OnlineTutorFinder
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/O-html.zip
 
+## Responsive-animated-login
+https://github.com/Lai-Monkey/HTML-ALL/raw/main/Responsive-animated-login-signup-form.zip
+
+
+## login-form-naruto
+https://github.com/Lai-Monkey/HTML-ALL/raw/main/login-form-naruto.zip
+
 ## Member Login 
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/login-form-v1.zip
 
