@@ -20,7 +20,7 @@ https://github.com/Lai-Monkey/HTML-ALL/raw/main/O-html.zip
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/Loginform.zip
 
 ## Animated Login
-https://github.com/Lai-Monkey/HTML-ALL/raw/main/Animated Login.zip
+https://github.com/Lai-Monkey/HTML-ALL/raw/main/Animated-Login.zip
 
 ## Responsive-animated-login
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/Responsive-login.zip
