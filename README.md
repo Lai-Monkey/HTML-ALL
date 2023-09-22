@@ -4,6 +4,14 @@ Html
 ## Soundwave：
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/S-html.zip
 
+
+## dynamic：
+https://github.com/Lai-Monkey/HTML-ALL/raw/main/dynamic-main.zip
+
+## AOS_slick：
+https://github.com/Lai-Monkey/HTML-ALL/raw/main/6.21_AOS_slick-master.zip
+
+
 ## Lokuri Website
 https://github.com/Lai-Monkey/HTML-ALL/raw/main/L-html.zip
 
